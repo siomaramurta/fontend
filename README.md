@@ -15,4 +15,5 @@ Formação Frontend alura.
 - Aprenda a estrutura da página HTML
 - Navegue entre páginas web
 - Conheça reset.css e o posicionamento pelo CSS
-- Entenda a diferença e
+- Entenda a diferença entre inline e block
+- Lide com bordas e pseudo-classes CSS
